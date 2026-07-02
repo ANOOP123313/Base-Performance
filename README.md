@@ -1,1 +1,1 @@
-Base Performance is a modern, responsive website designed for a premium sports and fitness training center. The platform showcases world-class training facilities, professional coaching programs, and high-performance sports infrastructure through immersive visuals, smooth animations, and interactive scrolling experiences. Built with HTML5, CSS3, JavaScript, and Tailwind CSS, the website delivers an engaging experience for athletes, fitness enthusiasts, and visitors while highlighting the center's facilities and training programs.
+
