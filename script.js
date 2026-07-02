@@ -1,4 +1,4 @@
-/* ===============================
+﻿/* ===============================
    MOBILE MENU
 ================================ */
 const mobileMenuBtn = document.getElementById('mobile-menu-btn');
